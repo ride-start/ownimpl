@@ -1,6 +1,6 @@
 
 {
-	"spider": "https://github.com/ride-start/h128tvbox/blob/main/tv/zy.jar",
+	"spider": "https://ghproxy.com/raw.githubusercontent.com/ride-start/h128tvbox/main/tv/zy.jar",
 	"wallpaper": "https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
