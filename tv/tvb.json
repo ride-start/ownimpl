@@ -30,7 +30,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ride-start/h128tvbox/main/tv/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -52,7 +52,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ride-start/h128tvbox/main/tv/token.txt"
     },
     {
       "key": "UpYun",
@@ -63,7 +63,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ride-start/h128tvbox/main/tv/token.txt"
     },
     {
       "key": "PanSearch",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ride-start/h128tvbox/main/tv/token.txt"
     },
     {
       "key": "七夜",
@@ -84,7 +84,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ride-start/h128tvbox/main/tv/token.txt"
     }
 ],
 
