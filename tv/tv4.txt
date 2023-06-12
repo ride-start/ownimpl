@@ -3358,3 +3358,9 @@ TVB浪姐『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199563478721-11995634
 拉萨汉语综合,https://live.lasatv.cn/lasatv-zh/zh720x576.m3u8?auth_key=1647761540-0-0-bf3056285e1d6d2d8c46ed8088b060ec;{User-Agent@0151?zxicd}
 拉萨藏语综合,https://live.lasatv.cn/lasatv-zyzh/zyzh720x576.m3u8?auth_key=1647761466-0-0-71219c79c1f0953a5338484ebe4e9a78;{User-Agent@0151?zxicd}
 拉萨文旅频道,https://live.lasatv.cn/lasatv-whly/whly720x576.m3u8?auth_key=1647761585-0-0-1a613f8be81d1342c6a9415d6b20f8b3;{User-Agent@0151?zxicd}
+
+斗鱼,#genre#
+斗鱼直播,https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
+
+虎牙,#genre#
+虎牙直播,https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u
