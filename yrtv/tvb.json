@@ -25,7 +25,7 @@
       "key": "MV_vod",
       "name": "👀┃MV┃视频",
       "type": 1,
-      "api": "http://你自己域名:7777/mv/vod",
+      "api": "http://127.0.0.1:7777/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
