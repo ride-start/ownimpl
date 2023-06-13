@@ -30,7 +30,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/ride-start/ownimpl/main/yrtv/token.txt"
+      "ext": "b6ff2243dbd94ac38f2ad617a2a4141e"
     },
     {
       "key": "Zhaozy",
@@ -52,7 +52,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/ride-start/ownimpl/main/yrtv/token.txt"
+      "ext": "b6ff2243dbd94ac38f2ad617a2a4141e"
     },
     {
       "key": "UpYun",
@@ -63,7 +63,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/ride-start/ownimpl/main/yrtv/token.txt"
+      "ext": "b6ff2243dbd94ac38f2ad617a2a4141e"
     },
     {
       "key": "PanSearch",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ride-start/ownimpl/main/yrtv/token.txt"
+      "ext": "b6ff2243dbd94ac38f2ad617a2a4141e"
     },
     {
       "key": "七夜",
@@ -84,7 +84,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://raw.iqiq.io/ride-start/ownimpl/main/yrtv/token.txt"
+      "ext": "b6ff2243dbd94ac38f2ad617a2a4141e"
     },
 	 {
       "key": "csp_WoGG",
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/ride-start/ownimpl/main/yrtv/token.txt"
+      "ext": "b6ff2243dbd94ac38f2ad617a2a4141e"
     },
 	 {
       "key": "csp_Miaobo",
