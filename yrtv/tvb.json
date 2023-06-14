@@ -1544,8 +1544,15 @@
 	},
 	{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
 	{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
+	{"key":"Yisou","name":"🔍阿里|易搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
 	{"key":"csp_AppYsV2_如意4K","name":"🅱️如意tv4k|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-	{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"63774bf8978340ce84bc3175a2963c34"}
+	{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"63774bf8978340ce84bc3175a2963c34"},
+	{"key":"cps_日后","name":"🅱️日后蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
+	{"key":"cps_车姐","name":"🅱️车姐蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lfytyl.com/api.php/app/"},
+	{"key":"cpa_七七","name": "🅱️七七蓝光|T追剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://a.banwl.com/api.php/app/"},
+	{"key":"csp_AppYsV2_多米","name":"🅱️多米蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
+	{"key":"csp_AppYsV2_看看剧","name": "🅱️看看影视|T追剧", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://kankanju.cc/api.php/app/"}
+	
 
 
 
