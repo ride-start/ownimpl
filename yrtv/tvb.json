@@ -23,15 +23,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "MV_vod",
-      "name": "👀┃MV┃视频",
-      "type": 1,
-      "api": "http://127.0.0.1:7777/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 	  {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
@@ -41,7 +32,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "95efc8b850d443979f4bca4e53e2a00e"
+      "ext": "63774bf8978340ce84bc3175a2963c34"
     },
     {
       "key": "Zhaozy",
@@ -63,7 +54,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "95efc8b850d443979f4bca4e53e2a00e"
+      "ext": "63774bf8978340ce84bc3175a2963c34"
     },
     {
       "key": "UpYun",
@@ -74,7 +65,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "95efc8b850d443979f4bca4e53e2a00e"
+      "ext": "63774bf8978340ce84bc3175a2963c34"
     },
     {
       "key": "PanSearch",
@@ -84,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "95efc8b850d443979f4bca4e53e2a00e"
+      "ext": "63774bf8978340ce84bc3175a2963c34"
     },
     {
       "key": "七夜",
@@ -95,7 +86,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "95efc8b850d443979f4bca4e53e2a00e"
+      "ext": "63774bf8978340ce84bc3175a2963c34"
     },
 	 {
       "key": "csp_WoGG",
@@ -105,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "95efc8b850d443979f4bca4e53e2a00e"
+      "ext": "63774bf8978340ce84bc3175a2963c34"
     },
 	{
             "key": "MTV转点播",
@@ -1560,19 +1551,19 @@
 
 {"key":"csp_AppYsV2_看看剧","name": "🅱️看看影视|T追剧", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://kankanju.cc/api.php/app/"},
 
-{"key":"Yisou","name":"🔍阿里|易搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+{"key":"Yisou","name":"🔍阿里|易搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
 
 {"key":"Zhaozy","name":"🔍阿里|找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff$$$ygfxz$$$66666"},
 
-{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
 
-{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
 
-{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"63774bf8978340ce84bc3175a2963c34"},
 
 //{"key": "土拨鼠","name": "🔍阿里|土拨鼠","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xBPQ/土拨鼠.json"},
 
-//{"key": "纸条","name": "🔍阿里|纸条搜","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "df1a2af97c7e405b8d9bf78951e2c4ff"}
+//{"key": "纸条","name": "🔍阿里|纸条搜","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "63774bf8978340ce84bc3175a2963c34"}
 
 
 
