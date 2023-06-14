@@ -2,15 +2,8 @@
 {
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5ce71caef727c72289254da2925f7af5",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-	"lives":[
-        {
-            "name": "油管",
-            "type": 0,
-            "url": "https://livetv.allll1.repl.co/lives.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
+	
+
 
 "sites":[
  {
