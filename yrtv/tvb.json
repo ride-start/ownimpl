@@ -89,13 +89,6 @@
       "filterable": 1,
       "ext": "63774bf8978340ce84bc3175a2963c34"
     },
-	//{
-           // "key": "MTV转点播",
-           // "name": "MTV转换",
-           // "type": 3,
-           // "api": "./lf_live_min.js",
-          //  "ext": "./lf_live_min.txt"
-       // },
         {
             "key": "直播转点播",
             "name": "直播转换",
