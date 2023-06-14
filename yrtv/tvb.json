@@ -1531,7 +1531,7 @@
             "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
             "searchable": 0,
             "quickSearch": 0
-        }
+        },
 	{
 	"key":"Yisou",
 	"name":"🔍阿里|易搜索",
@@ -1541,7 +1541,11 @@
 	"quickSearch":1,
 	"filterable":1,
 	"ext":"63774bf8978340ce84bc3175a2963c34"
-	}
+	},
+	{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
+	{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
+	{"key":"csp_AppYsV2_如意4K","name":"🅱️如意tv4k|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+	{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"63774bf8978340ce84bc3175a2963c34"}
 
 
 
