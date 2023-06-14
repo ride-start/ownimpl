@@ -1532,6 +1532,16 @@
             "searchable": 0,
             "quickSearch": 0
         }
+	{
+	"key":"Yisou",
+	"name":"🔍阿里|易搜索",
+	"type":3,"api":"csp_YiSo",
+	"playerType":1,
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"63774bf8978340ce84bc3175a2963c34"
+	}
 
 
 
