@@ -2,13 +2,15 @@
 {
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5ce71caef727c72289254da2925f7af5",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWW91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]
-		}]
-	}],
+	"lives":[
+        {
+            "name": "油管",
+            "type": 0,
+            "url": "https://livetv.allll1.repl.co/lives.m3u",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
 
 "sites":[
  {
@@ -105,6 +107,29 @@
       "filterable": 1,
       "ext": "95efc8b850d443979f4bca4e53e2a00e"
     },
+	{
+            "key": "MTV转点播",
+            "name": "MTV转换",
+            "type": 3,
+            "api": "./lf_live_min.js",
+            "ext": "./lf_live_min.txt"
+        },
+        {
+            "key": "直播转点播",
+            "name": "直播转换",
+            "type": 3,
+            "api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js",
+            "ext": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播.js"
+        },
+        {
+            "key": "*非凡",
+            "name": "非凡",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
 	 {
       "key": "csp_Miaobo",
       "name": "🔥秒播┃2K",
@@ -1522,7 +1547,35 @@
             "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
             "searchable": 0,
             "quickSearch": 0
-        }
+        },
+	{"key":"cps_日后","name":"🅱️日后蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
+
+{"key":"cps_车姐","name":"🅱️车姐蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lfytyl.com/api.php/app/"},
+
+//{"key":"cpa_七七","name": "🅱️七七蓝光|T追剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://a.banwl.com/api.php/app/"},
+
+{"key":"csp_AppYsV2_多米","name":"🅱️多米蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
+
+{"key":"csp_AppYsV2_如意4K","name":"🅱️如意tv4k|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
+{"key":"csp_AppYsV2_看看剧","name": "🅱️看看影视|T追剧", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://kankanju.cc/api.php/app/"},
+
+{"key":"Yisou","name":"🔍阿里|易搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+
+{"key":"Zhaozy","name":"🔍阿里|找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff$$$ygfxz$$$66666"},
+
+{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+
+{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+
+{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
+
+//{"key": "土拨鼠","name": "🔍阿里|土拨鼠","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xBPQ/土拨鼠.json"},
+
+//{"key": "纸条","name": "🔍阿里|纸条搜","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "df1a2af97c7e405b8d9bf78951e2c4ff"}
+
+
+
 ],
 
  "parses": [{
