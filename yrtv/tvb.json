@@ -2,8 +2,6 @@
 {
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5ce71caef727c72289254da2925f7af5",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-	
-
 
 "sites":[
  {
@@ -91,13 +89,13 @@
       "filterable": 1,
       "ext": "63774bf8978340ce84bc3175a2963c34"
     },
-	{
-            "key": "MTV转点播",
-            "name": "MTV转换",
-            "type": 3,
-            "api": "./lf_live_min.js",
-            "ext": "./lf_live_min.txt"
-        },
+	//{
+           // "key": "MTV转点播",
+           // "name": "MTV转换",
+           // "type": 3,
+           // "api": "./lf_live_min.js",
+          //  "ext": "./lf_live_min.txt"
+       // },
         {
             "key": "直播转点播",
             "name": "直播转换",
