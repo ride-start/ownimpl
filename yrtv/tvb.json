@@ -23,6 +23,11 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"PanSearch","name":"云盘｜搜索","type":3,"api":"csp_PanSearch","ext":"944fbc72010f4085863ce3352666c82d"},
+	{"key":"Dovx","name":"云盘｜七夜","type":3,"api":"csp_Dovx","ext":"944fbc72010f4085863ce3352666c82d"},
+	{"key":"YiSo","name":"云盘｜易搜","type":3,"api":"csp_YiSo","ext":"944fbc72010f4085863ce3352666c82d"},
+	{"key":"UpYun","name":"云盘｜云搜","type":3,"api":"csp_UpYun","ext":"944fbc72010f4085863ce3352666c82d"},
+	{"key":"PanSou","name":"云盘｜盘搜","type":3,"api":"csp_PanSou","ext":"944fbc72010f4085863ce3352666c82d"},
 	  {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
