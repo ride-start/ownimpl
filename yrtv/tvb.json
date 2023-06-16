@@ -32,7 +32,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "63774bf8978340ce84bc3175a2963c34+4k|fhd|auto"
+      "ext": "ec94efb397624fd39dbc2d2e106ad708+4k|fhd|auto"
     },
     {
       "key": "Zhaozy",
@@ -43,7 +43,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$fanfan$$$qqq111"
+      "ext": "ec94efb397624fd39dbc2d2e106ad708$$$fanfan$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -54,7 +54,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "63774bf8978340ce84bc3175a2963c34+4k|fhd|auto"
+      "ext": "ec94efb397624fd39dbc2d2e106ad708+4k|fhd|auto"
     },
    {
       "key": "UpYun",
@@ -65,7 +65,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "63774bf8978340ce84bc3175a2963c34+4k|fhd|auto"
+      "ext": "ec94efb397624fd39dbc2d2e106ad708+4k|fhd|auto"
     },
     {
       "key": "PanSearch",
@@ -75,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "63774bf8978340ce84bc3175a2963c34+4k|fhd|auto"
+      "ext": "ec94efb397624fd39dbc2d2e106ad708+4k|fhd|auto"
     },
     {
       "key": "七夜",
@@ -86,7 +86,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "63774bf8978340ce84bc3175a2963c34+4k|fhd|auto"
+      "ext": "ec94efb397624fd39dbc2d2e106ad708+4k|fhd|auto"
     },
 	 {
       "key": "csp_WoGG",
@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "63774bf8978340ce84bc3175a2963c34++4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "ext": "ec94efb397624fd39dbc2d2e106ad708++4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
         {
             "key": "直播转点播",
@@ -1540,12 +1540,12 @@
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
-	"ext":"63774bf8978340ce84bc3175a2963c34"
+	"ext":"ec94efb397624fd39dbc2d2e106ad708"
 	},
-	{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
-	{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"63774bf8978340ce84bc3175a2963c34"},
+	{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"ec94efb397624fd39dbc2d2e106ad708"},
+	{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"ec94efb397624fd39dbc2d2e106ad708"},
 	{"key":"csp_AppYsV2_如意4K","name":"🅱️如意tv4k|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-	{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"63774bf8978340ce84bc3175a2963c34"},
+	{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"ec94efb397624fd39dbc2d2e106ad708"},
 	{"key":"cps_日后","name":"🅱️日后蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 	{"key":"cps_车姐","name":"🅱️车姐蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lfytyl.com/api.php/app/"},
 	{"key":"cpa_七七","name": "🅱️七七蓝光|T追剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://a.banwl.com/api.php/app/"},
