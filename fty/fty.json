@@ -1,6 +1,6 @@
 {
   "spider": "./fty.jar;md5;a4c63fe74439b399ccd4eaaf4c639588",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
       "key": "js豆瓣",
@@ -42,7 +42,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "csp_DuoX",
@@ -490,7 +490,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "Zhaozy",
@@ -501,7 +501,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "PanSou",
@@ -512,7 +512,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "UpYun",
@@ -523,7 +523,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "PanSearch",
@@ -533,7 +533,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "七夜",
@@ -544,7 +544,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "push_agent",
