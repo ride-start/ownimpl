@@ -44,7 +44,7 @@
       "filterable": 1,
       "ext": "./token.txt"
     },
-    {"key":"4K HDR","name":"云盘｜4K HDR","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./4K HDR.json"}],
+    {"key":"4K HDR","name":"云盘｜4K HDR","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./4K HDR.json"},
     {
       "key": "csp_DuoX",
       "name": "💢多线┃APP",
