@@ -77,6 +77,17 @@
       "changeable": 1,
       "ext": "http://yt3353.lfytyl.com/api.php/app/"
     },
+    {
+      "key": "Gitcafe",
+      "name": "📀小纸条(搜索)",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt"
+    },
      {
       "key": "小米",
       "name": "️小米┃APP",
