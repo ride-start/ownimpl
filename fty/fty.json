@@ -87,13 +87,16 @@
       "ext": "http://xhww.fun:63/小米/源/360.json"
     },
 {
-      "key":"Gitcafe", 
-      "name": "阿里 | 小纸条",
-      "type": 3, "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1, 
-        "filterable": 0,
-        "ext":"./token.txt" 
+  "key":"Gitcafe",
+  "name":"📀小纸条",
+  "type":3,
+  "api":"csp_Gitcafe",
+  "playerType":1,
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./token.txt",
+  "jar": "https://gitee.com/w769061082/tvbox2/raw/main/APP/custom_spider.jar"
 },
  {
       "key": "csp_TT",
