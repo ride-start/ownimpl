@@ -86,16 +86,6 @@
       "playerType": "1",
       "ext": "http://xhww.fun:63/小米/源/360.json"
     },
-     {
-      "key": "365",
-      "name": "年年┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://zl.yy365.vip/api.php/app/"
-    },
 {
       "key":"Gitcafe", 
       "name": "阿里 | 小纸条",
@@ -366,15 +356,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {"key": "csp_appys_影探",
-   "name": "❤影探主接口|4K",
-   "type": 3,
-   "api": "csp_AppYsV2",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "http://yt3353.lfytyl.com/api.php/app/"
- },  
     {
       "key": "如如",
       "name": "🏵如如┃App",
