@@ -16,7 +16,8 @@
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar":"./spider.jar"
     },
     {
       "key": "小鸭",
