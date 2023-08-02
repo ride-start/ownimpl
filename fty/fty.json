@@ -300,16 +300,15 @@
       "ext":"https://qu.ax/nVpb.json",
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
-        {
+       {
       "key": "csp_Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0,
       "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "ext": "http://饭太硬.top/tv/bilibili.json"
     },
     {
       "key": "csp_Biliych",
@@ -318,9 +317,8 @@
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/biliych.json"
+      "ext": "http://饭太硬.top/tv/biliych.json"
     },
         {
       "key": "dr_88看球",
