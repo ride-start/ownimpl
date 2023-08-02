@@ -37,6 +37,26 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+      "key": "飞速",
+      "name": "🚄┃影探┃影视",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"
+    },
+        {
+      "key": "csp_WoGG",
+      "name": "👽玩偶哥哥┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt"
+    },
     {
       "key": "小鸭",
       "name": "小鸭┃网盘",
@@ -46,16 +66,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./token.txt"
     },
         {
       "key": "MV_vod",
@@ -601,7 +611,90 @@
       "changeable": 1,
       "ext": "https://www.555dyy1.com"
     },
-  
+  {
+      "key": "drpy_js_AnFuns",
+      "name": "动漫 | AnFuns[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/AnFuns.js"
+    },
+    {
+      "key": "drpy_js_NT动漫",
+      "name": "动漫 | NT动漫[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NT动漫.js"
+    },
+    {
+      "key": "drpy_js_动漫岛",
+      "name": "动漫 | 动漫岛[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/动漫岛.js"
+    },
+    {
+      "key": "drpy_js_路漫漫",
+      "name": "动漫 | 路漫漫[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/路漫漫.js"
+    },
+    {
+      "key": "drpy_js_去看吧",
+      "name": "动漫 | 去看吧[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/去看吧.js"
+    },
+    {
+      "key": "drpy_js_咕噜咕噜",
+      "name": "动漫 | 咕噜咕噜[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/咕噜咕噜.js"
+    },
+    {
+      "key": "drpy_js_嘶哩嘶哩",
+      "name": "动漫 | 嘶哩嘶哩[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/嘶哩嘶哩.js"
+    },
+    {
+      "key": "drpy_js_奇米动漫",
+      "name": "动漫 | 奇米动漫[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇米动漫.js"
+    },
+    {
+      "key": "drpy_js_妮可动漫",
+      "name": "动漫 | 妮可动漫[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/妮可动漫.js"
+    },
+    {
+      "key": "drpy_js_怡萱动漫",
+      "name": "动漫 | 怡萱动漫[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/怡萱动漫.js"
+    },
+    {
+      "key": "drpy_js_异世界动漫",
+      "name": "动漫 | 异世界动漫[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/异世界动漫.js"
+    },
+    {
+      "key": "drpy_js_omofun动漫",
+      "name": "动漫 | omofun动漫[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/omofun动漫.js"
+    },
     {
       "key": "csp_Dm84",
       "name": "🚌动漫┃巴士",
