@@ -183,7 +183,7 @@
      {
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4┃磁力4K",
-      "jar": "https://qu.ax/qokd.jpg",
+      "jar": "./spidernew.jar",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -193,7 +193,7 @@
   {
     "key": "csp_New6v",
     "name": "🧲新6V",
-    "jar":"https://qu.ax/qokd.jpg",
+    "jar":"./spidernew.jar",
     "type": 3,"api": "csp_New6v",
     "searchable": 1,
     "quickSearch": 1,
@@ -203,7 +203,7 @@
     {
       "key": "csp_SeedHub",
       "name": "🧲SeedHub┃磁力4K",
-      "jar": "https://qu.ax/qokd.jpg",
+      "jar": "./spidernew.jar",
       "type": 3,
       "api": "csp_SeedHub",
       "playerType": 1,
@@ -214,7 +214,7 @@
     {
       "key": "csp_KubaCL",
       "name": "🧲酷吧┃磁力4K",
-      "jar": "https://qu.ax/qokd.jpg",
+      "jar": "./spidernew.jar",
       "type": 3,
       "api": "csp_KubaCL",
       "playerType": 1,
@@ -225,7 +225,7 @@
     {
       "key": "csp_MeijuTT",
       "name": "🧲美剧天堂┃磁力4K",
-      "jar": "https://qu.ax/qokd.jpg",
+      "jar": "./spidernew.jar",
       "type": 3,
       "api": "csp_MeijuTT",
       "playerType": 1,
@@ -236,7 +236,7 @@
     {
       "key": "csp_MeijuMi",
       "name": "🧲美剧迷┃磁力4K",
-      "jar": "https://qu.ax/qokd.jpg",
+      "jar": "./spidernew.jar",
       "type": 3,
       "api": "csp_MeijuMi",
       "playerType": 1,
