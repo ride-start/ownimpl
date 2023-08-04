@@ -55,7 +55,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://xhww.fun:63/小米/0802.jar",
+      "jar":"./spider11.jar",
       "ext": "./token.txt"
     },
     {
