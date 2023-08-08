@@ -59,6 +59,15 @@
       "ext": "./token.txt"
     },
     {
+      "key": "T4_玩偶",
+      "name": "玩偶哥哥",
+      "type": 4,
+      "api": "http://120.53.102.254/t4/t4ali",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "小鸭",
       "name": "小鸭┃网盘",
       "type": 3,
