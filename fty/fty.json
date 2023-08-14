@@ -361,15 +361,17 @@
       "ext": "https://download.kstore.space/download/4127/js/电影港.json","jar":"https://qu.ax/qokd.jpg"
     },
     {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力 | 磁力熊[磁][js]","type":3,"api":"https://qu.ax/NtMt.js","ext":"https://qu.ax/zGrL.js"},
-     {
-      "key": "小米",
-      "name": "️小米┃APP",
+        {
+      "key": "csp_WoGG",
+      "name": "woggtest",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_WoGG",
+      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xn--yeta099v.online:66/api.php/app/"
+      "jar":"./xiaomi.jar",
+      "ext": "./token.txt"
     },
   {
       "key": "如意",
