@@ -127,7 +127,7 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./token.txt",
-  "jar": "./fty2.jar"
+  "jar": "./pizazz.jar"
 },
  {
       "key": "csp_TT",
