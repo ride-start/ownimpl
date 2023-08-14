@@ -127,7 +127,7 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./token.txt",
-  "jar": "https://gitee.com/w769061082/tvbox2/raw/main/APP/custom_spider.jar"
+  "jar": "./fty2.jar"
 },
  {
       "key": "csp_TT",
