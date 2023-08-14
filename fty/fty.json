@@ -239,6 +239,16 @@
       "ext": "https://qu.ax/USvO.txt"
     },
     {
+      "key":"drpy_js_4KHDR",
+      "name":"影视 | 4KHDR[js] | 磁",
+      "type":3,
+      "api":"https://qu.ax/uJGB.js",
+      "ext":"https://qu.ax/AEUP.js",
+      "searchable":1, 
+      "quickSearch":0, 
+      "changeable":0
+    },
+    {
             "key": "csp_XYQHikerAL_4KHDR",
             "name": "🧲📀4KHDR(盘/磁)",
             "jar":"https://qu.ax/lPlj.js",
