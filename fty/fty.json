@@ -19,13 +19,16 @@
       "changeable": 0,
       "jar":"./fty2.jar"
     },
-      {
-      "key": "磁力",
-      "name": "荐片┃磁力",
+ {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
       "type": 3,
-      "playerType": "1",
-      "api": "http://xhww.fun:63/js/drpy1.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
+       "jar":"./fatcat.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
      {
       "key": "磁力熊",
@@ -33,11 +36,12 @@
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/磁力熊.js",
+        "jar":"./fatcat.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-        {
+    {
       "key": "飞速",
       "name": "🚄┃影探┃影视",
       "type": 3,
@@ -45,6 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+        "jar":"./fatcat.jar",
       "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"
     },
         {
@@ -141,14 +146,6 @@
       "searchable": 1,
       "ext": "https://hk-api-cf.yqk5659.com"
     },
-      {
-      "key": "360",
-      "name": "360┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/360.json"
-    },
 {
   "key":"Gitcafe",
   "name":"📀小纸条",
@@ -180,11 +177,20 @@
             "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;46DC62C93BC8125354412EC50B6E7AA1",
             "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
         },
-     {
+    {
+      "key": "素白",
+      "name": "🦢┃素白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+        "jar":"./fatcat.jar",
+      "ext": "http://我不是.肥猫.love:63/json/素白.json"
+    },
+    {
       "key": "夜夜",
       "name": "🦉┃夜夜┃影视",
       "type": 3,
       "api": "csp_XBPQ",
+        "jar":"./fatcat.jar",
       "ext": {
         "站名": "夜光影视",
         "主页url": "https://www.ygpvp.com/",
@@ -210,29 +216,13 @@
         "简介": "<p>&&</p>"
       }
     },
-          {
-      "key": "龟龟",
-      "name": "龟龟┃BPQ",
+    {
+      "key": "虎虎",
+      "name": "🐯┃虎虎┃影视",
       "type": 3,
+        "jar":"./fatcat.jar",
       "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "主页url": "http://www.dadagui.me/",
-        "副标题": "pic-text text-right\">&&</b>",
-        "搜索模式": "1",
-        "搜索url": "https://www.dadagui.me/vodsearch/{wd}-------------.html",
-        "图片": "data-original=\"&&\"",
-        "嗅探词": "v3-dy-o.zjcdn.com#huoshanvod.com#mp4#m3u8#.m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn",
-        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "线路标题": "\"tab\">&&</a>",
-        "线路数组": "[替换:自营云播e>>自营1080P#非云>>高清有4K#蓝光>>1080P#非凡云播>>非凡微广告#量子云播>>量子微广告#无尽云播>>无尽有广告][排序:自营1080P>高清有4K>非凡微广告>量子微广告>无尽有广告]",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-        "跳转解析": "默认$空#高清有4K$https://www.dadagui.me/webcloud/?vid=#1080P无广$https://www.dadagui.me/webcloud/?vid=",
-        "跳转播放链接": "解析+link_pre*url\":\"&&\"",
-        "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
-      }
+      "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
     },
     {
       "key": "Youtube",
