@@ -56,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91",
+      "jar":"./xiaomi.jar",
       "ext": "./token.txt"
     },
     {
@@ -103,6 +103,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+     {
+      "key": "csp_AList_Alist",
+      "name": "🍰小鸭┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"./xiaomi.jar",
+      "ext": "http://xhww.fun:63/小米/源/alist.json"
     },
     {
       "key": "YQK_spider",
@@ -361,18 +372,6 @@
       "ext": "https://download.kstore.space/download/4127/js/电影港.json","jar":"https://qu.ax/qokd.jpg"
     },
     {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力 | 磁力熊[磁][js]","type":3,"api":"https://qu.ax/NtMt.js","ext":"https://qu.ax/zGrL.js"},
-        {
-      "key": "csp_WoGG",
-      "name": "woggtest",
-      "type": 3,
-      "api": "csp_WoGG",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./xiaomi.jar",
-      "ext": "./token.txt"
-    },
   {
       "key": "如意",
       "name": "🅱️如意蓝光T追剧",
