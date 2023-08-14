@@ -41,17 +41,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "飞速",
-      "name": "🚄┃影探┃影视",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-        "jar":"./fatcat.jar",
-      "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"
-    },
         {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
@@ -63,15 +52,6 @@
       "filterable": 1,
       "jar":"./xiaomi.jar",
       "ext": "./token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "T4_玩偶",
-      "name": "玩偶哥哥",
-      "type": 4,
-      "api": "http://120.53.102.254/t4/t4ali",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_wogg_cli",
@@ -114,15 +94,6 @@
       "changeable": 1,
       "jar":"./fty2.jar",
       "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
-      "key": "csp_DuoX",
-      "name": "💢多线┃APP",
-      "type": 3,
-      "api": "csp_DuoX",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
      {
       "key": "csp_AList_Alist",
