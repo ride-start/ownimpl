@@ -426,54 +426,27 @@
       "filterable": 0,
       "ext": "http://alist.xn--z7x900a.love:63/88看球.js"
     },
-    {
-      "key": "csp_AppTT",
-      "name": "🐰图图┃APP",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-    },
-    {
-      "key": "csp_kuaikan",
-      "name": "👀快看┃App",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
  {
+      "key": "陌陌",
+      "name": "🍄陌陌┃直连",
+      "type": 3,
+      "api": "csp_MmYs",
+      "searchable": 1,
+      "quickSearch": 1,
+     "jar":"./fty2.jar",
+      "changeable": 0
+    },
+    {
       "key": "csp_77",
       "name": "👒七七┃App",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
+        "jar":"./fty2.jar",
       "changeable": 1
     },
     {
-      "key": "如如",
-      "name": "🏵如如┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms.maoyingshi.cc/api.php/app/"
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "👻明明┃App",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   {
       "key": "csp_Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
@@ -481,6 +454,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
+        "jar":"./fty2.jar",
       "changeable": 1
     },
     {
@@ -490,6 +464,7 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
+        "jar":"./fty2.jar",
       "changeable": 1
     },
     {
@@ -499,6 +474,7 @@
       "api": "csp_Libvio",
       "searchable": 1,
       "quickSearch": 1,
+        "jar":"./fty2.jar",
       "changeable": 1,
       "ext": "https://www.libvio.fun/"
     },
@@ -506,7 +482,11 @@
       "key": "贱贱",
       "name": "🐭贱贱┃p2p",
       "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "playerType": "1",
+        "jar":"./fty2.jar",
       "api": "http://xhww.fun:63/js/drpy1.min.js",
       "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
     },
@@ -514,15 +494,11 @@
       "key": "酷酷",
       "name": "💡酷酷┃App",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Kuying",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://cms.realdou.cn:27953/api.php/app/",
-      "categories": [
-        "4K电影",
-        "4K电视剧"
-      ]
+        "jar":"./fty2.jar",
+      "changeable": 1
     },
     {
       "key": "探探",
@@ -532,102 +508,7 @@
       "api": "csp_YT",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "csp_YQKAPP",
-      "name": "🎉一起┃App",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api-aws.11ty.top"
-    },
-    {
-      "key": "csp_kuaikan",
-      "name": "👀快看┃App",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "👻明明┃App",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Xinsj",
-      "name": "🐼视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
-    },
-    {
-      "key": "csp_fantuan",
-      "name": "🍙饭团┃直连",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.fantuan3.com"
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "📕可乐┃直连",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "✌比特┃直连",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://饭太硬.top/x/json/nmys.json"
-    },
-    {
-      "key": "csp_Dy1010",
-      "name": "❤️双十┃直连",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Vofl",
-      "name": "🎈Vofl┃直连",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
+        "jar":"./fty2.jar",
       "changeable": 1
     },
     {
@@ -637,6 +518,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
+        "jar":"./fty2.jar",
       "changeable": 1
     },
     {
@@ -647,17 +529,114 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+        "jar":"./fty2.jar",
       "ext": "https://www.zxzj.pro/"
     },
     {
-      "key": "csp_Lgyy",
-      "name": "🌀蓝光┃直连",
+      "key": "csp_Xinsj",
+      "name": "👓视觉┃直连",
       "type": 3,
-      "api": "csp_Lgyy",
+      "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.lgyy.vip"
+        "jar":"./fty2.jar",
+      "ext": "https://www.6080yy3.com/"
+    },
+    {
+      "key": "csp_kuaikan",
+      "name": "👀快看┃App",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+        "jar":"./fty2.jar",
+      "changeable": 1
+    },
+    {
+      "key": "csp_AppMr",
+      "name": "👻明明┃App",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+        "jar":"./fty2.jar",
+      "changeable": 1
+    },
+    {
+      "key": "csp_YQKAPP",
+      "name": "🎉一起┃App",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+        "jar":"./fty2.jar",
+      "ext": "https://api-aws.11ty.top"
+    },
+    {
+      "key": "csp_fantuan",
+      "name": "🍙饭团┃直连",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+        "jar":"./fty2.jar",
+      "ext": "https://www.fantuan3.com"
+    },
+    {
+      "key": "csp_Cokemv",
+      "name": "📕可乐┃直连",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+        "jar":"./fty2.jar",
+      "changeable": 1
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "✌比特┃直连",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+        "jar":"./fty2.jar",
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🌾农民┃直连",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+        "jar":"./fty2.jar",
+      "ext": "http://饭太硬.top/tv/nmys.json"
+    },
+    {
+      "key": "csp_Dy1010",
+      "name": "❤️双十┃直连",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+        "jar":"./fty2.jar",
+      "changeable": 1
+    },
+    {
+      "key": "csp_Vofl",
+      "name": "🎈Vofl┃直连",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+        "jar":"./fty2.jar",
+      "changeable": 1
     },
     {
       "key": "csp_Ysgc",
@@ -667,17 +646,52 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.ysgc.vip"
+        "jar":"./fty2.jar",
+      "ext": "https://www.ysgc1.cc/"
     },
     {
-      "key": "csp_555",
-      "name": "5️⃣️五五┃直连",
+      "key": "csp_SP33",
+      "name": "📺三三┃解析",
       "type": 3,
-      "api": "csp_Ys555",
+      "api": "csp_SP33",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.555dyy1.com"
+      "filterable": 1,
+        "jar":"./fty2.jar",
+      "changeable": 0
+    },
+    {
+      "key": "Qtv",
+      "name": "🐧腾腾┃解析",
+      "type": 3,
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+        "jar":"./fty2.jar",
+      "changeable": 0
+    },
+    {
+      "key": "Itv",
+      "name": "🥝爱爱┃解析",
+      "type": 3,
+      "api": "csp_Itv",
+      "quickSearch": 1,
+      "searchable": 1,
+        "jar":"./fty2.jar",
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Mtv",
+      "name": "🍋芒芒┃解析",
+      "type": 3,
+      "api": "csp_Mtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+        "jar":"./fty2.jar",
+      "changeable": 0
     },
   {
       "key": "drpy_js_AnFuns",
@@ -763,14 +777,15 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/omofun动漫.js"
     },
-    {
+      {
       "key": "csp_Dm84",
       "name": "🚌动漫┃巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+          "jar":"./fty2.jar",
+      "changeable": 1
     },
     {
       "key": "csp_Ying",
@@ -779,7 +794,8 @@
       "api": "csp_Ying",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+        "jar":"./fty2.jar",
+      "changeable": 1
     },
     {
       "key": "csp_Ysj",
@@ -788,7 +804,8 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+        "jar":"./fty2.jar",
+      "changeable": 1
     },
     {
       "key": "csp_Anime1",
@@ -797,7 +814,8 @@
       "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+        "jar":"./fty2.jar",
+      "changeable": 1
     },
     {
       "key": "csp_Yj1211",
@@ -806,37 +824,68 @@
       "api": "csp_Yj1211",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+        "jar":"./fty2.jar",
+      "changeable": 1
     },
-    {
+  {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/88看球.js",
+      "api": "http://xhww.fun:63/js/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "jar":"./fty2.jar",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0
     },
     {
       "key": "csp_xp_qiumi",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
       "api": "csp_XPath",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+        "jar":"./fty2.jar",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/dj看球.json"
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/dj看球.json"
     },
     {
       "key": "csp_XYQBiu_310直播",
       "name": "⚽310┃看球",
       "type": 3,
       "api": "csp_XYQBiu",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+        "jar":"./fty2.jar",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/310直播.json"
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/310直播.json"
+    },
+    {
+      "key": "csp_XPath_企鹅体育",
+      "name": "🐧企鹅┃体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+        "jar":"./fty2.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/企鹅直播.json"
     },
      {
       "key": "ok",
@@ -964,16 +1013,6 @@
         "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
         "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
       }
-    },
-    {
-      "key": "csp_XPath_企鹅体育",
-      "name": "🐧企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/企鹅直播.json"
     },
      {
       "key": "酷奇js",
