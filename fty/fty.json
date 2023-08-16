@@ -10,14 +10,14 @@
       "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js"
     },
     {
-      "key": "csp_YGP",
-      "name": "🚀新片┃速递",
+      "key": "YGP",
+      "name": "🚀叨观荐影┃速递",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
-      "jar":"./fty2.jar"
+       "jar":"./fty2.jar",
+      "changeable": 0
     },
  {
       "key": "荐片",
@@ -52,6 +52,14 @@
       "filterable": 1,
       "jar":"./xiaomi.jar",
       "ext": "./token.txt+4k|auto|fhd"
+    },
+        {
+      "key": "素白",
+      "name": "🦢┃素白┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./fatcat.jar",
+      "ext": "http://我不是.肥猫.love:63/json/素白.json"
     },
     {
       "key": "csp_wogg_cli",
