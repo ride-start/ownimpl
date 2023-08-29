@@ -3,16 +3,6 @@
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "豆瓣 | 主页",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "jar":"./fty2.jar",
-      "filterable": 0
-    },
-    {
       "key": "YGP",
       "name": "🚀叨观荐影┃速递",
       "type": 3,
