@@ -2,12 +2,15 @@
   "spider": "./XBPQ.jar;md5;b753810e87120584cdc72d2476f96713",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
-   {
-      "key": "豆瓣",
+    {
+      "key": "豆豆",
       "name": "豆瓣┃主页",
       "type": 3,
-      "api": "http://xhww.fun:63/lib/drpy2.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js"
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+       "jar":"./xiaomi.jar",
+      "filterable": 0
     },
     {
       "key": "YGP",
