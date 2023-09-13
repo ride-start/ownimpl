@@ -160,6 +160,103 @@
       "ext": "http://我不是.肥猫.love:63/json/素白.json"
     },
     {
+	    "key":"Alist",
+	    "name":"Alist",
+	    "type":3,
+	    "api":"http://101.34.67.237/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"http://101.34.67.237/txt/json/alist.json"
+	},
+	{
+            "key": "csp_新视觉",
+            "name": "🍁新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	    "jar":"http://101.34.67.237/files/新视觉.jar"
+        },
+        {
+            "key": "dr_海盗听书",
+            "name": "海盗听书(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar":"./xiaoya.jar",
+            "ext": "http://101.34.67.237/js/海盗听书.js"
+        },
+        {
+            "key": "dr_酷云77",
+            "name": "酷云77(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+           "jar":"./xiaoya.jar",
+            "ext": "http://101.34.67.237/js/酷云77.js"
+        },
+        {
+            "key": "dr_菜狗",
+            "name": "菜狗(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+           "jar":"./xiaoya.jar",
+            "ext": "http://101.34.67.237/js/菜狗.js"
+        },
+        {
+            "key": "dr_荐片",
+            "name": "荐片(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+           "jar":"./xiaoya.jar",
+            "ext": "http://101.34.67.237/js/荐片.js"
+        },
+        {
+            "key": "dr_真不卡",
+            "name": "真不卡(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+           "jar":"./xiaoya.jar",
+            "ext": "http://101.34.67.237/js/真不卡.js"
+        },
+        {
+            "key": "dr_有声小说吧",
+            "name": "有声小说吧(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+           "jar":"./xiaoya.jar",
+            "ext": "http://101.34.67.237/js/有声小说吧.js"
+        },
+        {
+            "key": "dr_drpy",
+            "name": "drpy(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+           "jar":"./xiaoya.jar",
+            "ext": "http://101.34.67.237/js/drpy.js"
+        },
+    {
       "key": "夜夜",
       "name": "🦉┃夜夜┃影视",
       "type": 3,
