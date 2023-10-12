@@ -46,6 +46,38 @@
       "jar":"./xiaomi.jar",
       "ext": "./token.txt+4k|auto|fhd"
     },
+	{
+		"key":"三六零",
+		"name":"三六零",
+		"type":3,
+		"api":"csp_SP360",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"jar":"./pizazz.jar"
+	},
+	{
+		"key":"酷影视",
+		"name":"酷影视",
+		"type":3,
+		"api":"csp_AppYsV2",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":"https://www.tvkuys.xyz/api.php/app/",
+		"jar":"./pizazz.jar"
+	},
+	{
+		"key":"极速播",
+		"name":"极速播",
+		"type":3,
+		"api":"csp_AppYsV2",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":"https://www.gsjtlxy.top/xgapp.php/v3/",
+		"jar":"./pizazz.jar"
+	},
         {
       "key": "素白",
       "name": "🦢┃素白┃影视",
