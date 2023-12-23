@@ -35,14 +35,13 @@
       "filterable": 1
     },
         {
-      "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃已修复断流",
       "type": 3,
       "api": "csp_WoGG",
-      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 0,
       "jar":"./fty1223.jar",
       "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
