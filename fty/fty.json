@@ -9,7 +9,7 @@
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
-       "jar":"./fty2.jar",
+       "jar":"./fty1223.jar",
       "changeable": 0
     },
  {
@@ -43,8 +43,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./xiaomi.jar",
-      "ext": "./token.txt+4k|auto|fhd"
+      "jar":"./fty1223.jar",
+      "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
 	{
 		"key":"三六零",
