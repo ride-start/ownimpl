@@ -14,6 +14,18 @@
       "ext": "./token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
     },
     {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲┃玩偶┃影视",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+	"jar":"./PandaQ240127.jar",
+      "ext": "./token.txt"
+    },
+    {
       "key": "YGP",
       "name": "🚀叨观荐影┃速递",
       "type": 3,
