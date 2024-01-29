@@ -3,15 +3,15 @@
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕不断流",
+     "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-	 "jar":"./fty240101.jar",
-      "ext": "./token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
+      "jar":"./fty0129.jar",
+      "ext": "./token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
     },
     {
       "key": "YGP",
@@ -21,7 +21,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-     "jar":"./fty240101.jar"
+     "jar":"./fty0129.jar"
     },
     {
       "key": "Czsapp",
@@ -32,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-	 "jar":"./fty240101.jar",
+	 "jar":"./fty0129.jar",
       "ext": "https://www.czzy33.com/"
     },
     {
@@ -43,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-	"jar":"./fty240101.jar",
+	"jar":"./fty0129.jar",
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
     },
     {
@@ -55,7 +55,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-	"jar":"./fty240101.jar"
+	"jar":"./fty0129.jar"
     },
     {
       "key": "77",
@@ -65,7 +65,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-	"jar":"./fty240101.jar"
+	"jar":"./fty0129.jar"
     },
      {
       "key": "磁力熊",
