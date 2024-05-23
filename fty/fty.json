@@ -1,5 +1,5 @@
 {
-  "spider": "./PandaQ240523.jar;md5;85e832f30273e71868b241a45f4c7082",
+  "spider": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -11,7 +11,6 @@
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-      "jar":"./PandaQ240523.jar",
       "ext": "./token.txt"
     },
 	{
@@ -19,8 +18,7 @@
       "name": "🐤┃6V磁力┃影视",
       "type": 3,
       "api": "csp_Xb6v",
-      "playerType": "2",
-	"jar":"./PandaQ240523.jar"
+      "playerType": "2"
     },
    {
       "key": "nangua",
@@ -28,8 +26,7 @@
       "type": 3,
       "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/南瓜.js",
-	"jar":"./PandaQ240523.jar"
+      "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
     },
     {
       "key": "新视觉",
@@ -38,8 +35,7 @@
       "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	"jar":"./PandaQ240523.jar"
+      "filterable": 1
     },
     {
       "key": "胖虎",
@@ -50,24 +46,21 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://physvod.com",
-	"jar":"./PandaQ240523.jar"
+      "ext": "https://physvod.com"
     },
     {
       "key": "csp_Nkdy",
       "name": "🏔┃耐看┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Nkdy",
-	"jar":"./PandaQ240523.jar"
+      "api": "csp_Nkdy"
     },
     {
       "key": "csp_Juqq",
       "name": "⭕┃剧圈┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Juqq",
-	"jar":"./PandaQ240523.jar"
+      "api": "csp_Juqq"
     },
     {
       "key": "csp_LiteApple",
@@ -77,8 +70,7 @@
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	"jar":"./PandaQ240523.jar"
+      "filterable": 1
     },
  {
       "key": "csp_Vidhub2",
@@ -87,8 +79,7 @@
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	"jar":"./PandaQ240523.jar"
+      "filterable": 1
     },
     {
       "key": "厂长",
@@ -99,8 +90,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://czzy.top/",
-	"jar":"./PandaQ240523.jar"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "csp_AppRZ",
@@ -108,8 +98,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_AppRZ",
-      "ext": "http://rzys.xyz/",
-	"jar":"./PandaQ240523.jar"
+      "ext": "http://rzys.xyz/"
     },
     {
       "key": "csp_Nmys",
@@ -120,8 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://v.nmvod.cn",
-	"jar":"./PandaQ240523.jar"
+      "ext": "https://v.nmvod.cn"
     },
     {
       "key": "csp_Auete",
@@ -130,8 +118,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	"jar":"./PandaQ240523.jar"
+      "filterable": 1
     },
     {
       "key": "csp_Kuaikan",
@@ -140,16 +127,14 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	"jar":"./PandaQ240523.jar"
+      "filterable": 1
     },
     {
       "key": "FreeOK",
       "name": "️️👌┃Fre┃影视",
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/FreeOK.js",
-	"jar":"./PandaQ240523.jar"
+      "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
     },
     {
       "key": "南瓜",
@@ -159,8 +144,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-	"jar":"./fty0129.jar"
+      "changeable": 1
     },
 	
 {
@@ -180,32 +164,28 @@
       "name": "🌸┃樱花┃动漫",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Ying",
-	"jar":"./PandaQ240523.jar"
+      "api": "csp_Ying"
     },
     {
       "key": "csp_Dm84",
       "name": "🤣┃动漫┃巴士",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Dm84",
-	"jar":"./PandaQ240523.jar"
+      "api": "csp_Dm84"
     },
     {
       "key": "csp_Anime1",
       "name": "🐶┃日本┃动漫",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Anime1",
-	"jar":"./PandaQ240523.jar"
+      "api": "csp_Anime1"
     },
     {
       "key": "csp_Ysj",
       "name": "📺┃異界┃动漫",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Ysj",
-	"jar":"./PandaQ240523.jar"
+      "api": "csp_Ysj"
     },
     {
       "key": "csp_xifan",
@@ -214,8 +194,7 @@
       "api": "csp_Xifan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	"jar":"./PandaQ240523.jar"
+      "filterable": 1
     },
 	   {
       "key": " 在线┃直播1",
@@ -223,7 +202,6 @@
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/JustLive.js",
-	"jar":"./PandaQ240523.jar",
       "gridview": "0-0-H",
       "style": {
         "type": "rect",
@@ -239,7 +217,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "gridview": 3,
-	"jar":"./PandaQ240523.jar",
       "style": {
         "type": "list"
       }
@@ -251,7 +228,6 @@
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
-	 "jar":"./PandaQ240523.jar",
       "style": {
         "type": "list"
       },
@@ -262,7 +238,6 @@
       "name": "🌖┃七夜┃网盘",
       "type": 3,
       "api": "csp_Dovx",
-	"jar":"./PandaQ240523.jar",
       "ext": "./token.txt"
     },
     {
@@ -270,7 +245,6 @@
       "name": "🚢┃盘搜┃网盘",
       "type": 3,
       "api": "csp_Pansou",
-	"jar":"./PandaQ240523.jar",
       "ext": "./token.txt"
     },
     {
@@ -278,7 +252,6 @@
       "name": "🚃┃盘搜┃网盘2",
       "type": 3,
       "api": "csp_PanSearch",
-	 "jar":"./PandaQ240523.jar",
       "ext": "./token.txt"
     },
     {
@@ -288,7 +261,6 @@
       "api": "csp_UpYun",
       "timeout": 30,
       "changeable": 0,
-	"jar":"./PandaQ240523.jar",
       "ext": "./token.txt"
     },
     {
@@ -298,7 +270,6 @@
       "api": "csp_AiPanSo",
       "timeout": 30,
       "changeable": 0,
-	 "jar":"./PandaQ240523.jar",
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
@@ -307,7 +278,6 @@
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "playerType": 1,
-	"jar":"./PandaQ240523.jar",
       "ext": "http://dt.xn--yety82d.love/js/B站.js"
     },
     {
@@ -318,7 +288,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-	"jar":"./PandaQ240523.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -333,7 +302,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-	 "jar":"./PandaQ240523.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -348,7 +316,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-	"jar":"./PandaQ240523.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -363,7 +330,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-	"jar":"./PandaQ240523.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -378,7 +344,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-	"jar":"./PandaQ240523.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
