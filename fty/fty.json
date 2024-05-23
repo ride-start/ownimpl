@@ -29,7 +29,7 @@
       "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/南瓜.js",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "新视觉",
@@ -39,7 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "胖虎",
@@ -51,7 +51,7 @@
       "filterable": 1,
       "playerType": 1,
       "ext": "https://physvod.com",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Nkdy",
@@ -59,7 +59,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Juqq",
@@ -67,7 +67,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_LiteApple",
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
  {
       "key": "csp_Vidhub2",
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "厂长",
@@ -100,7 +100,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://czzy.top/",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_AppRZ",
@@ -109,7 +109,7 @@
       "playerType": "2",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Nmys",
@@ -121,7 +121,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.nmvod.cn",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Auete",
@@ -131,7 +131,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Kuaikan",
@@ -141,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "FreeOK",
@@ -149,7 +149,7 @@
       "type": 3,
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/FreeOK.js",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "南瓜",
@@ -181,7 +181,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ying",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Dm84",
@@ -189,7 +189,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Anime1",
@@ -197,7 +197,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_Ysj",
@@ -205,7 +205,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ysj",
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
     {
       "key": "csp_xifan",
@@ -215,7 +215,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"jar":"./PandaQ240523.jar",
+	"jar":"./PandaQ240523.jar"
     },
 	   {
       "key": " 在线┃直播1",
